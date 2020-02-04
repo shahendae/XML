@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+  <Student>
+    <Name>shahenda</Name>
+    <Address>sporting</Address>
+    <Phone>576547647</Phone>
+  </Student>
+  <Student>
+    <Name>leboo</Name>
+    <Address>nasr</Address>
+    <Phone>6757657</Phone>
+  </Student>
+  <Student>
+    <Name>magdy</Name>
+    <Address>test</Address>
+    <Phone>1234</Phone>
+  </Student>
+  <Student>
+    <Name>mina</Name>
+    <Address>smouha</Address>
+    <Phone>1234</Phone>
+  </Student>
+  <Student>
+    <Name>youssef</Name>
+    <Address>smouha</Address>
+    <Phone>675464674</Phone>
+  </Student>
+</Students>

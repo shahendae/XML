@@ -1,0 +1,9 @@
+c:\users\shahe\onedrive\documents\visual studio 2017\Projects\XML_Project\XML_Project\bin\Debug\XML_Project.exe.config
+c:\users\shahe\onedrive\documents\visual studio 2017\Projects\XML_Project\XML_Project\bin\Debug\XML_Project.exe
+c:\users\shahe\onedrive\documents\visual studio 2017\Projects\XML_Project\XML_Project\bin\Debug\XML_Project.pdb
+c:\users\shahe\onedrive\documents\visual studio 2017\Projects\XML_Project\XML_Project\obj\Debug\XML_Project.csprojResolveAssemblyReference.cache
+c:\users\shahe\onedrive\documents\visual studio 2017\Projects\XML_Project\XML_Project\obj\Debug\XML_Project.Form1.resources
+c:\users\shahe\onedrive\documents\visual studio 2017\Projects\XML_Project\XML_Project\obj\Debug\XML_Project.Properties.Resources.resources
+c:\users\shahe\onedrive\documents\visual studio 2017\Projects\XML_Project\XML_Project\obj\Debug\XML_Project.csproj.GenerateResource.Cache
+c:\users\shahe\onedrive\documents\visual studio 2017\Projects\XML_Project\XML_Project\obj\Debug\XML_Project.exe
+c:\users\shahe\onedrive\documents\visual studio 2017\Projects\XML_Project\XML_Project\obj\Debug\XML_Project.pdb
